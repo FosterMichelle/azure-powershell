@@ -4,6 +4,8 @@ online version:
 schema: 2.0.0
 ---
 
+test
+
 # Add-AzureRmServiceFabricApplicationCertificate
 
 ## SYNOPSIS
